@@ -24,9 +24,9 @@ export const seoData = {
   description:
     'Sagar Panchal is a front-end developer who specializes in building exceptional visual interfaces.',
   author: author.name,
-  image:
-    'https://user-images.githubusercontent.com/68834718/217467445-0b0d2d63-f8ad-4702-8474-814eb2cbb3be.png',
-  url: 'https://vatsalsinghkv.vercel.app/',
+  // image:
+    // 'https://user-images.githubusercontent.com/68834718/217467445-0b0d2d63-f8ad-4702-8474-814eb2cbb3be.png',
+  url: 'https://portfolio2024-lilac.vercel.app/',
   keywords: [
     'Sagar',
     'Sagar Panchal',
