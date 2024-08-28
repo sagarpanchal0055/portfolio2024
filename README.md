@@ -7,8 +7,6 @@
 
 <br>
 
-[![My Portfolio](https://user-images.githubusercontent.com/68834718/abcd.png)](https://.vercel.app/)
-
 ## Table of Contents
 
 - [Sections](#sections)
